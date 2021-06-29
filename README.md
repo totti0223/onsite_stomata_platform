@@ -4,20 +4,13 @@ jupyter notebook based gui platform to control jetson nano connected camera thro
 ## Data included in this repository
 
 - SSD model (tensorflow saved_model format) trained to detect wheat stomata of imprint images
-  
   - ./saved_model
-  
 - Manual to prepare and train a tensorflow stomata detector model in colab.
-
   - StomataDetectorModelTrainingManual.ipynb
-
-  
-
 - Example codes to execute a GUI in jupyter notebook or jupyterlab.
-
   - main_En.ipynb
 
-# Data not included in this repository
+## Data not included in this repository
 
 please download the zip file from the following link (abt.422Mb) for using it in StomataDetectorModelTrainingManual.ipynb
 
