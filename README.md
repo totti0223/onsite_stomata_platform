@@ -24,7 +24,6 @@ Datasets used for model training and for reproducibility
   - trainval_coco.json: Training/Val dataset annotation in **COCO json** format
   - test folder: Test dataset images (jpg)
   - test_labelbox.json: Test dataset annotation in **Labelbox json** format
-  - test_coco.json: Test dataset annotation in **COCO json** format
 
 ## Requirements
 
