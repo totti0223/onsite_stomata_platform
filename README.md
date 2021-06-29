@@ -7,6 +7,7 @@ jupyter notebook based gui platform to control jetson nano connected camera thro
   - ./saved_model
 - Manual to prepare and train a tensorflow stomata detector model in colab.
   - StomataDetectorModelTrainingManual.ipynb
+  - [Open in Google Colaboratory](https://colab.research.google.com/github/totti0223/onsite_stomata_platform/blob/main/StomataDetectorModelTraining.ipynb)
 - Example codes to execute a GUI in jupyter notebook or jupyterlab.
   - main_En.ipynb
 
